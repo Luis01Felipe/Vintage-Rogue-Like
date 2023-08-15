@@ -1,3 +1,5 @@
+package io.github.luis01felipe.game;
+
 public class World {
     private int[][] matriz;
     public World(int linhas, int colunas){
